@@ -8,7 +8,7 @@
     color: #FFFFFF;
     margin: 0;
     padding: 0;
-
+    transition: .1s;
 }
 
 .place__link:hover {
