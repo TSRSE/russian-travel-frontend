@@ -10,4 +10,4 @@
 4. Организация файлов по БЭМ nested
 5. Медиа запросы для корректного отображения на всех устройствах
 
-Ссылка на проект: Пока не отправлено
+Ссылка на проект: [tsrse.github.io/russian-travel-frontend](https://tsrse.github.io/russian-travel-frontend/)
